@@ -1,0 +1,1 @@
+This directory contains all cleaned and processed data for Milestone project 1, solo 119.
