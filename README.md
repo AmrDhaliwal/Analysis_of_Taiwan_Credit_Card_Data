@@ -17,7 +17,7 @@ The data set being used for this Milestone project 1, solo 119 is default of cre
 
 ## Solo Member
 
-- Person 1: one sentence about you!
+-I am a 3rd year Microbiology student who is taking this class for fun becuase, I have an interest in coding.
 
 ## References
 
