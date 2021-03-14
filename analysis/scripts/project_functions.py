@@ -1,10 +1,12 @@
 import pandas as pd
 
-def load_and_process(df3):
+# Method chain wrapped in a function
+# Has renamned columns and dropped Nan values and duplicates
+def load_and_process(_):
     #Method 1 load csv file and drop for Nan values
     df1 = (
         pd.read_csv(r"C:\Users\Amrit\Desktop\School\data301\course-project-solo_119\data\data.raw\default of credit card clients.csv")
-        .dropna(inplace = False)
+        .dropna()
     )
     # Method 2 rename all columns in Dataframe
     df2 = (
@@ -16,12 +18,14 @@ def load_and_process(df3):
                            'X15': 'BILL_AMT_JUL', 'X16': 'BILL_AMT_AUG', 'X17': 'BILL_AMT_SEPT',
                            'X18': 'PAY_AMT_APR', 'X19': 'PAY_AMT_MAY', 'X20': 'PAY_AMT_JUN',
                            'X21': 'PAY_AMT_JUL', 'X22': 'PAY_AMT_AUG', 'X23': 'PAY_AMT_SEPT',
-                           'Y': 'PAY_NEXT_MONTH'}, inplace=False)
+                           'Y': 'PAY_NEXT_MONTH'})
     )
     # Method 3 use .drop to remove duplicate names from Dataframe
+    # Change floats to int
     df3 = (
         df2
-        .drop(df.index[0], inplace=False)
+        .drop(df2.index[0])
+        .astype(int)
     )
     
     return df3    
