@@ -11,5 +11,13 @@ are definatly partly attributed to paying for school fees. This is also true for
 similar across both scatterplots. Also when looking at the correlation between the two payment scatterplots those with higher debt are making higher repayments monthly which means is safe t say that 
 those that obtained a higher education were eventaully making more monthly than those who didn't.
 
-## Do older people have a higher credit card limit? And is there a big variation of credit limit between Males and Females?
+## Do age matter for credit card limit? And is there a big variation of credit limit between Males and Females?
+This question was helped answered with two box plot and a histplot which can be found using these links 
+![alt text](https://github.com/[AmrDhaliwal]/[course-project-solo_119]/blob/[main]/images/AGE%vs%Limit_BAL.png?raw=true) 
+![alt text](https://github.com/[AmrDhaliwal]/[course-project-solo_119]/blob/[main]/images/Credit%Limit.png?raw=true)                                                                                        ![alt text](https://github.com/[AmrDhaliwal]/[course-project-solo_119]/blob/[main]/images/SEX%vs%Limit_BAL.png?raw=true).
+
+When looking at the boxplot that shows AGE vs Limit_BAL it's clear that age does matter for credit limit but, varies greatly. On average 21 t 29 year olds have the lowest 
+credit limit while those 58 and older have some of the highest credit limits in the data set. For the boxplot that shows Age vs Credit Limt I wanted to see if 
+there was a big variation between the two genders provided in the data set, but when looking at the plot its clear that the credit limit is
+quite balanced between the two genders. The major difference I saw though was that males have a slightly smaller mean than females.
 
