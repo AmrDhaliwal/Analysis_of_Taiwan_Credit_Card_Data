@@ -11,5 +11,5 @@ are definatly partly attributed to paying for school fees. This is also true for
 similar across both scatterplots. Also when looking at the correlation between the two payment scatterplots those with higher debt are making higher repayments monthly which means is safe t say that 
 those that obtained a higher education were eventaully making more monthly than those who didn't.
 
-
+## Do older people have a higher credit card limit? And is there a big variation of credit limit between Males and Females?
 
