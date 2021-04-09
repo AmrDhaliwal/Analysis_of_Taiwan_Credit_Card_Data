@@ -5,7 +5,7 @@ import pandas as pd
 def load_and_process(_):
     #Method 1 load csv file and drop for Nan values
     df1 = (
-        pd.read_csv(r"C:\Users\Amrit\Desktop\School\data301\course-project-solo_119\data\data.raw\default of credit card clients.csv")
+        pd.read_csv(r"default of credit card clients.csv")
         .dropna()
     )
     # Method 2 rename all columns in Dataframe
@@ -18,7 +18,7 @@ def load_and_process(_):
                            'X15': 'BILL_AMT_JUL', 'X16': 'BILL_AMT_AUG', 'X17': 'BILL_AMT_SEPT',
                            'X18': 'PAY_AMT_APR', 'X19': 'PAY_AMT_MAY', 'X20': 'PAY_AMT_JUN',
                            'X21': 'PAY_AMT_JUL', 'X22': 'PAY_AMT_AUG', 'X23': 'PAY_AMT_SEPT',
-                           'Y': 'PAY_NEXT_MONTH'})
+                           'Y': 'DEFAULT'})
     )
     # Method 3 use .drop to remove duplicate names from Dataframe
     # Change floats to int

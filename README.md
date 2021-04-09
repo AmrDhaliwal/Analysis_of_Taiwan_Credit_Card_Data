@@ -8,7 +8,7 @@
 
 ## Describe your topic/interest in about 150-200 words
 
-My hope for this first Milestone project is to create useful visuals for the data set being used. The interest for this data mainly came from the fact that the data was collected in Taiwan back in 2005, which can be useful insight to see how spending habits have changed over a decade and a half. The main question I want to explore using this data set is how is education correlated to spending and paying off credit debt? Are educated people managing their debt better than less educated people and do they try to pay off their debt faster? The final question to be answered could a user-facing Dashboard be made with this data set and I believe that it defiantly can. Taiwan isn’t the only country with credit cards or credit debt, and I think other countries and companies, and individuals would value using a Dashboard built off the default of credit card data set.
+My hope for this first Milestone project is to create useful visuals for the data set being used. The interest for this data mainly came from the fact that the data was collected in Taiwan back in 2005, which can be useful insight to see how spending habits have changed over a decade and a half. The questions I want to explore using this data set is Does age matter for credit card limit? Who defaults on their credit payments more Males or Females?
 
 ## Describe your dataset in about 150-200 words
 
@@ -16,7 +16,7 @@ The data set being used for this Milestone project 1, solo 119 is default of cre
 
 ## Solo Member
 
--I am a 3rd year Microbiology student who is taking this class for fun becuase, I have an interest in coding.
+-I am a 3rd year Microbiology student who is taking this class for fun because, I have an interest in coding.
 
 ## References
 
