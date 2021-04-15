@@ -22,6 +22,9 @@ The data set being used for this Milestone project 1, solo 119 is default of cre
 
 *Online Dashboard can be found here (https://us-west-2b.online.tableau.com/#/site/data301/views/Course-project-solo_119-Dashboard/DatasetDescriptionandEDA?:iid=6).*
 
+## Screencast link
+
+*Link for cast (https://youtu.be/4MbZ1EvM38U).*
 ## References
 
 hCheng Yeh, I. (2016, January 26). UCI machine Learning repository: Default of credit card clients data set. Retrieved February 15, 2021, from https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients#
