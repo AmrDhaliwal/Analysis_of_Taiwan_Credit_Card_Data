@@ -1,1 +1,0 @@
-The data directory contains ALL data for Milestone project 1, solo 119 including the final data set.
