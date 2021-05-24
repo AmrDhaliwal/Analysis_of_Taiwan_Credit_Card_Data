@@ -12,5 +12,8 @@ of that dataset in csv file format.
 ## Dashboard link
 *Online Dashboard can be found here (https://us-west-2b.online.tableau.com/#/site/data301/views/Course-project-solo_119-Dashboard/DatasetDescriptionandEDA?:iid=6).*
 
+## Local setup
+Go-to the setup.md file to see how you can clone the project to your local machine succesfully.
+
 ## References
 hCheng Yeh, I. (2016, January 26). UCI machine Learning repository: Default of credit card clients data set. Retrieved February 15, 2021, from https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients
